@@ -25,8 +25,11 @@
         * Заданы настройки Rewrite c заменой кода ответа "200" на "500" - <a href="https://drive.google.com/file/d/1emFASg6HTVOz5gvgxRgwxz1AeGSBDway/view?usp=sharing">Скриншот</a> настроек.
         * Найдет GET запрос, от приложения с кодом ответа "500" - <a href="https://drive.google.com/file/d/1NoFNlaGWSpnbdlWqWoWv4KJgvKFmU4aw/view?usp=sharing">Скриншот</a> состояния GET запроса.
         * Зафиксировано отображение состояния приложения при ошибке загрузки данных - <a href="https://drive.google.com/file/d/14aUR9OX-bC3aITyJo5REfRZZx08mg9TS/view?usp=sharing">Скриншот</a> приложения при ошибке.
-  ### Задание
-  * Найден url с исходящим запросом смены 
+
+---
+---
+
+
 
 ## Описание Задания 1 
 
